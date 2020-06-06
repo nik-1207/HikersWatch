@@ -47,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
                 longtitude.setText(location.getLongitude() + "");
                 accuracy.setText(location.getAccuracy() + "");
                 altitude.setText(location.getAltitude() + "");
+
                 address.setText(address(location.getLatitude(), location.getLongitude()));
             }
 
