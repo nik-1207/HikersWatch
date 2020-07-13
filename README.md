@@ -1,5 +1,5 @@
 # Android learning
-This is a simple android application of showing location.
+This is a simple android application of tracking users location and visited places.
 
 ## Android application for Location.
 Learned how to implement 
